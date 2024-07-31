@@ -1,53 +1,229 @@
-Products:
-1. Tor Saturn
-- Description: Tor Saturn provides real-time vehicle insights, enhanced security, and continuous tracking for fleet management.
-- Features:
-- Uncover Real-Time Vehicle Insights
-- Go Beyond Location Tracking
-- Enhanced Security with Remote Immobilization
-- Never Lose Sight of the vehicle
-- Variants:
-- 321
-- Power Supply:
-- Supply Voltage: 9-30 V DC
-- Max Supply Voltage: 30 V DC
-- Reverse Polarity Protection: 0 to -30 V DC
-- Max Operating Current: <100 mA
-- Interfaces:
-- Digital Inputs: 4
-- Digital Outputs: 8
-- Analog Inputs: 3
-- RS485 Interface: 1
-- Hour Meter: 1
-- Additional Features:
-- Alternator Excitation: 120 mA
-- Physical Specifications:
-- Dimensions: 158 mm x 126 mm x 42 mm
-- Operating Environment:
-- Operation Temperature: -10 to +70 degrees Celsius
-- Storage Temperature: -20 to +95 degrees Celsius
-- Operating Humidity: 85% RH
-- Vibration: 2g, 10-150 Hertz
-- Enclosure Ingress Protection IP: IP 65 (front), IP 20 (back)
-- 322
-- Power Supply:
-- Supply Voltage: 9-30 V DC
-- Max Supply Voltage: 30 V DC
-- Reverse Polarity Protection: 0 to -30 V DC
-- Max Operating Current: <100 mA
-- Interfaces:
-- Digital Inputs: 4
-- Digital Outputs: 8
-- Analog Inputs: 3
-- RS485 Interface: 1
-- Hour Meter: 1
-- Additional Features:
-- Alternator Excitation: 240 mA
-- Physical Specifications:
-- Dimensions: 158 mm x 126 mm x 42 mm
-- Operating Environment:
-- Operation Temperature: -10 to +70 degrees Celsius
-- Storage Temperature: -20 to +95 degrees Celsius
-- Operating Humidity: 85% RH
-- Vibration: 2g, 10-150 Hertz
-- Enclosure Ingress Protection IP: IP 65 (front), IP 20 (back)
+These documents are company called tor.ai formally known as kloudq
+Company provides the various range of products like Edge Gateways | Platform | Accessories
+Tor's end to end product range Tor offers a wide range of networking products including Gateways, Platform and supporting Accessories designed to make your machine’s connectivity reliable, secure, and quick to deploy. With the help of these products, you can build a robust enterprise networking infrastructure which, along with our supporting application capabilities, will help you achieve your business objective with ease.
+Edge Gateways Edge Gateways contains the products like Tor Mars, Tor Saturn, Tor Venus, Tor Pluto, Tor Jupiter and Tor Mini 2G Edge Gateways. Information about tor mars
+Tor Mars Features of tor mars
+Features:
+•
+Uncover Real-Time Vehicle Insights.
+•
+Go Beyond Location Tracking
+•
+Enhanced Security with Remote Immobilization.
+•
+Never Lose Sight of the vehicle Uncover Real-Time Vehicle Insights Gain complete visibility into your fleet's location and movement with our basic GPS tracking. Optimize routes, improve efficiency, and make informed decisions based on real-time data Go Beyond Location Tracking Don't settle for just location data. Additionally, leverage the digital input for key on/off detection, providing valuable insights into vehicle usage patterns. The analog input can
+also be used to monitor battery voltage levels, ensuring timely intervention before a dead battery disrupts operations Enhanced Security with Remote Immobilization Take control in critical situations.Our digital output enables vehicle immobilization in case of theft or unauthorized use, providing an extra layer of security for your fleet Never Lose Sight of the vehicle Our integrated, compact battery keeps your VTS device transmitting data even when the engine is off or the key is out. This ensures continuous tracking, providing peace of mind for valuable assets Tor mars specifications and comparison of mars variants.
+There are two versions/variants/types of tor mars Tor Mars712 and Tor Mars 713
+Power supply of Tor mars 712 and Tor mars 713 is as follows
+Supply voltage of Tor Mars 712 is 12-90 V DC and Tor Mars 713 is 3*AA Battery
+Max Supply Voltage for Tor Mars 712 is 90V DC and for Tor Mars 713 is 5 V DC
+Reverse Polarity Protection for Tor Mars 712 is 0 to -90 V DC and for Tor Mars 713 is 0 to -5 V DC
+Max Operating Current for Tor Mars 712 is <100 mA and for Tor Mars 713 is NA
+Peak Operation Current for Tor Mars 712 is 2A @network activities and for Tor Mars 713 is NA
+BackUp Battery for Tor Mars 712 is 250Mah, Li-Ion 3.7V and for Tor Mars 713 is Slabs
+Communication is below
+Cellular Communication of Tor Mars 712 is 2G Quad-band GSM 850 / 900 / 1800 / 1900 MHz and for Tor Mars 713 is 2G Quad-band GSM 850 / 900 / 1800 / 1900 MHz
+GNSS for Tor Mars 712 is GPS, GLONASS and for Tor Mars 713 is Traingulation
+Network Protocol for Tor Mars 712 is Http, Mqtt and for Tor Mars 713 is Mqtt
+Interfaces are below
+Digital Input for Tor Mars 712 is 1 and for Tor Mars 713 is NA
+Digital output for Tor Mars 712 is 1 and for Tor Mars 713 is NA
+Analogue Input for Tor Mars 712 is 1(0-40v) and for Tor Mars 713 is NA
+GNSS Antenna for Tor Mars 712 is Internal and for Tor Mars 713 is Internal GSM
+Cellular Antenna SIM for Tor Mars 712 is Micro(1) and for Tor Mars 713 is Nano (1)
+Memory of Tor Mars 712 is 200 records@1 min frequency and for Tor Mars 713 is NA
+Additional Features are as follows
+Configuration & FW update for Tor Mars 712 is FOTA and for Tor Mars 713 is NA
+Physical Specification are as follows
+Dimension Weight for Tor Mars 712 is 51*98*20(L*W*H) <100gms and for Tor Mars 713 is 75*67*40(L*W*H) <100gms
+Operating Environment are as follows
+Operation Temperature (Without Battery) for Tor Mars 712 is -10 to +70 dec C and for Tor Mars 713 is 0 to 40 dec C
+Storage Temperature (Without Battery) for Tor Mars 712 is -20 to +95 dec C and for Tor Mars 713 is 0 to +60 dec C
+Operating Humidity for Tor Mars 712 85Rh and for Tor Mars 713 is NA
+Vibration for Tor Mars 712 is 2g, 10-150 Hertz and for Tor Mars 713 is NA
+Enclosure Ingress Protection(IP) for Tor Mars 712 is IP 65 and for Tor Mars 713 is 85 RH
+Tor Saturn Features of tor Saturn
+Features: • Uncover Real-Time Vehicle Insights • Go Beyond Location Tracking • Enhanced Security with Remote Immobilization • Never Lose Sight of the vehicle Uncover Real-Time Vehicle Insights Gain complete visibility into your fleet's location and movement with our basic GPS tracking. Optimize routes, improve efficiency, and make informed decisions based on real-time data Go Beyond Location Tracking Don't settle for just location data. Additionally, leverage the digital input for key on/off detection, providing valuable insights into vehicle usage patterns. The analog input can also be used to monitor battery voltage levels, ensuring timely intervention before a dead battery disrupts operations Enhanced Security with Remote Immobilization Take control in critical situations.Our digital output enables vehicle immobilization in case of theft or unauthorized use, providing an extra layer of security for your fleet
+Never Lose Sight of the vehicle Our integrated, compact battery keeps your VTS device transmitting data even when the engine is off or the key is out. This ensures continuous tracking, providing peace of mind for valuable assets Information about tor Saturn is given below
+Detailed information about Tor Saturn
+Specification of Power Supply of Tor Saturn
+Power Supply
+The supply voltage of the Saturn 321 is 9-30 V DC, and for the Saturn 322, it is also 9-30 V DC. The maximum supply voltage for both models is 30 V DC. Both models have reverse polarity protection ranging from 0 to -30 V DC, and their maximum operating current is less than 100 mA.
+Interfaces
+The Saturn 321 and Saturn 322 each have 4 digital inputs, 8 digital outputs, and 3 analogue inputs. Both models include 1 RS485 interface and 1 hour meter, but they do not support counter input (0-1000 Hz) or LED indication.
+Additional Features
+The Saturn 321 has an alternator excitation of 120 mA, while the Saturn 322 has a higher alternator excitation of 240 mA.
+Physical Specification
+Both the Saturn 321 and Saturn 322 share the same dimensions: 158 mm in length, 126 mm in width, and 42 mm in height.
+Operating Environment
+The operating temperature for both the Saturn 321 and Saturn 322 ranges from -10 to +70 degrees Celsius, and their storage temperature ranges from -20 to +95 degrees Celsius. They can operate in environments with up to 85% relative humidity and can withstand vibrations of 2g, from 10 to 150 Hertz. Both models have an enclosure ingress protection rating of IP 65 at the front and IP 20 at the back.
+Tor Venus Tor Venus is Advanced 4G LTE Cat1 device having RS485 and CAN support with battery back-up
+Features of tor venus
+Features: • Take Control of Your Assets • ARAI-Approved for Electric Vehicles • Fuel Efficiency at Your Fingertips • Deep Engine Insights • Built to Endure • Seamless Communication • Uninterrupted Operations • Prepared for Anything
+Take Control of Your Assets Monitor the health of your entire fleet of electric vehicles (2 & 3 wheelers), or industrial assets, all remotely, for improved efficiency and reduced downtime
+ARAI-Approved for Electric Vehicles Our device is specifically designed and approved for safe and reliable use in electric vehicles, giving you peace of mind
+Fuel Efficiency at Your Fingertips Track fuel consumption precisely with support for analog and Bluetooth sensors. (add icon for AI and BLE sensor)
+Deep Engine Insights Gain valuable insights into engine health and utilization with our dedicated hour meter and RPM measuring input. Track engine runtime and identify potential maintenance needs proactively
+Built to Endure The IP65-rated enclosure protects your device from dust, dirt, and water jets, ensuring it thrives in even the harshest environments
+Seamless Communication Connect seamlessly with industrial equipment using CAN bus or integrate with existing systems via Modbus over RS485
+Uninterrupted Operations The built-in battery backup keeps your device running for hours even during power outages, preventing data loss and ensuring continuous monitoring
+Prepared for Anything The external flash memory ensures data is securely stored even during extended network outages, guaranteeing you have a complete picture of your assets' health
+Specification of tor venus
+Power Supply
+The supply voltage of the Tor Venus 411 is 11-90 V DC, whereas for the Tor Venus 511, it is 11-30 V DC. The maximum supply voltage for the Venus 411 is 90 V DC, and for the Venus 511, it is 30 V DC. Both models offer reverse polarity protection, with the Venus 411 ranging from 0 to -90 V DC and the Venus 511 ranging from 0 to -30 V DC. The maximum operating current for both models is less than 100 mA, and the peak operating current during network activities is 2A. Both models come with a backup battery of 850 mAH, Li-Ion 3.7 V.
+Communication
+Both the Tor Venus 411 and Tor Venus 511 support cellular communication via 4G-LTE (FDD B1/B3/B5/B8 and TDD B34/B38/B39/B40/B41) and 2G-GSM (900 MHz/1800 MHz). They also support GNSS systems including GPS, GLONASS, BeiDou, Galileo, and QZSS, and can communicate via network protocols such as HTTP and MQTT.
+Interfaces
+The Tor Venus 411 and Tor Venus 511 each have 1 CAN interface and 2 analogue inputs. The Venus 411 lacks an RS485 interface and counter input but includes 2 digital inputs, 1 digital output, and an internal GNSS antenna. In contrast, the Venus 511 includes 1 RS485 interface, 1 counter input (0-1000 Hz), 1 hour meter, 2 digital inputs, 1 digital output, and an external GNSS antenna. The cellular antenna for the Venus 411 is internal GSM, while for the Venus 511, it is external GSM. The Venus 411 does not feature LED indication, while the Venus 511 includes LED indicators for power, network, GNSS, and communication (RS485). Both models use a micro SIM and have 64MB of memory.
+Bluetooth
+Both the Venus 411 and Venus 511 support Bluetooth BLE 4.2 and can interface with peripherals such as fuel sensors and BLE beacons.
+Additional Features
+The Venus 411 and Venus 511 both support web configuration and firmware over-the-air (FOTA) updates. Both models include an accelerometer sensor.
+Physical Specification
+The dimensions of both the Venus 411 and Venus 511 are 120 mm in length, 115 mm in width, and 35 mm in height.
+Operating Environment
+Both the Venus 411 and Venus 511 have an operating temperature range of -10 to +70 degrees Celsius without the battery, and 0 to 40 degrees Celsius with the battery. Their storage temperature without the battery is -20 to +95 degrees Celsius, and with the battery, it is 0 to 60 degrees Celsius. Both models can operate in environments with up to 85% relative humidity and withstand vibrations of 2g, from 10 to 150 Hertz. The enclosure ingress protection rating for both models is IP 65.
+Tor Pluto Tor Pluto is 4G LTE device with Modus over RS485 or CAN Features of tor pluto
+Features: • Unleash the Power of Remote Asset Monitoring • Fuel Efficiency. Optimized. (if applicable) • Built Tough. Built to Last • Unparalleled Connectivity
+Unleash the Power of Remote Asset Monitoring Gain complete oversight of your assets with our remote monitoring solution. This translates to improved efficiency, reduced downtime, and proactive maintenance strategies Fuel Efficiency. Optimized. (if applicable) Track fuel consumption with pinpoint accuracy using either analog or Bluetooth sensors (depending on your needs). Gain valuable insights into fuel usage patterns to optimize your fleet's performance
+Built Tough. Built to Last The IP65-rated enclosure shields your device from dust, dirt, and water jets, ensuring it thrives in even the harshest environments Unparalleled Connectivity Seamlessly connect with industrial equipment using the industry-standard CAN bus protocol. Alternatively, integrate effortlessly with existing systems via Modbus over RS485 Specification for tor pluto
+Power Supply
+The supply voltage for both the Tor Pluto 311 and Tor Pluto 212 is 11-36 V DC, with a maximum supply voltage of 36 V DC. Both models feature load dump protection at 12 V, reverse polarity protection from 0 to -36 V DC, and a maximum operating current of less than 100 mA. During network activities, the peak operating current is 2A. Both models do not have a backup battery.
+Communication
+The Tor Pluto 311 and Tor Pluto 212 support 2G Quad-band GSM (850/900/1800/1900 MHz). The Tor Pluto 312 and Tor Pluto 411 support 4G-LTE (FDD B1/B3/B5/B8 and TDD B34/B38/B39/B40/B41) and 2G-GSM (900/1800 MHz). GNSS capabilities are available on the Pluto 312 and Pluto 411, including GPS, GLONASS, BeiDou, Galileo, and QZSS. Network protocols supported by the Pluto 311 and Pluto 212 include HTTP, MQTT, and TCP IP, while the Pluto 312 and Pluto 411 support HTTP and MQTT.
+Interfaces
+The Pluto 311 and Pluto 212 have no digital inputs, digital outputs, or analogue inputs. They both feature 1 RS485 and 1 RS232 interface, respectively, and have external GSM antennas. The Pluto 312 includes 2 digital inputs, 2 analogue inputs, and 1 RS485 interface, with an internal GSM antenna and an internal GNSS antenna. The Pluto 411 also includes 2 digital inputs, 2 analogue inputs, 1 digital output, and 1 CAN interface, with internal GSM and GNSS antennas. The Pluto 311 and Pluto 212 have LED indications for power, network, and communication (RS485 and RS232 respectively), while the Pluto 312 and Pluto 411 do not have LED indications. The Pluto 311 and Pluto 212 use a normal SIM, while the Pluto 312 and Pluto 411 use a micro SIM. Memory capacity is 200 records at 1-minute frequency for the Pluto 311 and Pluto 212, and 1000 strings for the Pluto 312 and Pluto 411.
+Bluetooth
+None of the Pluto models (311, 212, 312, 411) include Bluetooth specifications. The Pluto 311 and Pluto 212 support standard RS485 and RS232 outputs, respectively.
+Additional Features
+Both the Pluto 311 and Pluto 212 support desktop configuration utilities and FOTA updates via SMS. Neither model includes sleep modes.
+Operating Environment
+All Pluto models (311, 212, 312, 411) have an operating temperature range of -10 to +70 degrees Celsius without the battery, and -20 to +95 degrees Celsius for storage without the battery. The Pluto 312 and Pluto 411 have an operating temperature (With battery) range of 0 to 40 degrees Celsius with the battery, and a storage temperature (With battery) range of 0 to 60 degrees Celsius with the battery. All models can operate in environments with up to 85% relative humidity and can withstand vibrations of 2g, from 10 to 150 Hertz. The enclosure ingress protection rating is IP 42 for the Pluto 311 and Pluto 212, and IP 65 for the Pluto 312 and Pluto 411.
+Tor Jupiter Tor Jupiter is Industrial application device having 4G LTE Cat1 connectivity with flexible communication protocol support and flexible Inputs along with a high capacity battery backup Features of tor Jupiter
+Features: • Gain Real-Time Insights, remotely • Fuel Efficiency at Your Fingertips • Seamless communication with Industrial Protocols • Uninterrupted Connectivity with Ethernet Support
+• Extended Operation with Battery Backup
+• Adaptable to Your Needs
+• Reliable Data Storage with 128MB Flash Memory Gain Real-Time Insights, remotely Keep a watchful eye on your industrial equipment's health, even remotely Fuel Efficiency at Your Fingertips Track fuel consumption precisely with support for analog and Bluetooth sensors. (add icon for AI and BLE sensor) Seamless communication with Industrial Protocols Leverage industry-standard protocols like CAN bus and Modbus over RS485 for effortless integration
+Uninterrupted Connectivity with Ethernet Support Enjoy reliable data transmission through Ethernet connectivity Extended Operation with Battery Backup Maintain operation for hours even during power outages with the long-lasting battery Adaptable to Your Needs The device boasts a variety of analog and digital inputs/outputs, allowing for flexible integration with diverse equipment and sensors Reliable Data Storage with 128MB Flash Memory Ensure data security and retrieval even during extended network disruptions with ample flash memory
+Specification for Jupiter
+Power Supply
+The supply voltage for the Jupiter 611, Jupiter 511, Jupiter 512, and Jupiter 513 models is 11-90 V DC, while for the Jupiter 811, it is 11-30 V DC. The maximum supply voltage for the Jupiter 611, Jupiter 511, Jupiter 512, and Jupiter 513 is 90 V DC, whereas for the Jupiter 811, it is 30 V DC. All models have reverse polarity protection, with the Jupiter 611, Jupiter 511, Jupiter 512, and Jupiter 513 ranging from 0 to -90 V DC, and the Jupiter 811 ranging from 0 to -30 V DC. The maximum operating current for all models is less than 100 mA, and the peak operating current during network activities is 2A. The Jupiter 611, Jupiter 511, Jupiter 512, and Jupiter 513 have a backup battery of 1000 mAH, Li-Ion 3.7 V, while the Jupiter 811 does not have a backup battery.
+Communication
+The Jupiter 611 supports 4G-LTE (FDD B1/B3/B5/B7/B8/B20 and TDD B38/B40/B41), WCDMA (B1/B5/B8), and 2G-GSM (900 MHz/1800 MHz). The Jupiter 511, Jupiter 512, and Jupiter 513 support 4G-LTE (FDD B1/B3/B5/B8 and TDD B34/B38/B39/B40/B41) and 2G-GSM (900 MHz/1800 MHz). The Jupiter 811 does not support cellular communication. The Jupiter 611 supports GNSS (GPS, GLONASS, BeiDou), while the Jupiter 511, Jupiter 512, and Jupiter 513 support GNSS (GPS, GLONASS, BeiDou, Galileo, QZSS). Network protocols supported by the Jupiter 611, Jupiter 511, Jupiter 512, and Jupiter 513 include HTTP, MQTT, and TCP IP, whereas the Jupiter 811 supports Ethernet.
+Interfaces
+The Jupiter 611 and Jupiter 811 do not have digital inputs or digital outputs. The Jupiter 511, Jupiter 512, and Jupiter 513 have 8 digital inputs (0-40 V) and 4 digital outputs. The Jupiter 511 has 8 voltage-based analogue inputs (30V), the Jupiter 512 has 8 current-based analogue inputs (4-20mA), and the Jupiter 513 has 6 voltage-based and 2 current-based analogue inputs. The Jupiter 611, Jupiter 511, Jupiter 512, and Jupiter 513 include 1 CAN interface and 1 RS485 interface, while the Jupiter 811 does not have a CAN interface and has 1 RS485
+interface. The Jupiter 511, Jupiter 512, and Jupiter 513 have 2 counter inputs (0-1000 Hz) and 1 hour meter, while the Jupiter 611 and Jupiter 811 do not. The Jupiter 611 and Jupiter 512 include 1 Ethernet port, while the Jupiter 511, Jupiter 811, and Jupiter 513 do not. All models except the Jupiter 811 have external GNSS and GSM antennas, and LED indications for power, network, and GNSS. The Jupiter 611, Jupiter 511, Jupiter 512, and Jupiter 513 use a micro SIM, while the Jupiter 811 also uses a micro SIM. The memory capacity is 8MB for the Jupiter 611 and Jupiter 811, and 128MB for the Jupiter 511, Jupiter 512, and Jupiter 513.
+Bluetooth
+The Jupiter 511, Jupiter 512, and Jupiter 513 support Bluetooth BLE 4.2 and can interface with peripherals such as fuel sensors and BLE beacons. The Jupiter 611 and Jupiter 811 do not have Bluetooth specifications.
+Additional Features
+The Jupiter 611, Jupiter 511, Jupiter 512, and Jupiter 513 support firmware over-the-air (FOTA) updates. The Jupiter 511, Jupiter 512, and Jupiter 513 include an accelerometer sensor, while the Jupiter 611 and Jupiter 811 do not have additional sensors.
+Physical Specification
+The dimensions for the Jupiter 611, Jupiter 511, Jupiter 811, Jupiter 512, and Jupiter 513 are 170 mm in length, 110 mm in width, and 42 mm in height.
+Operating Environment
+The operating temperature range for all Jupiter models (611, 511, 811, 512, 513) without the battery is -10 to +70 degrees Celsius. The storage temperature range without the battery is -20 to +95 degrees Celsius. The operating temperature range with the battery for the Jupiter 611, Jupiter 511, Jupiter 512, and Jupiter 513 is 0 to 40 degrees Celsius, with a storage temperature range of 0 to 60 degrees Celsius. All models can operate in environments with up to 85% relative humidity and withstand vibrations of 2g, from 10 to 150 Hertz. The enclosure ingress protection rating is IP 65 for the Jupiter 511, Jupiter 512, and Jupiter 513, while it is not applicable for the Jupiter 611 and Jupiter 811.
+Tor Mini 2G Edge Gateway
+Tor Mini 2G Edge Gateway helps you to
+•
+Unlock the true potential of your utility equipment with complete insight into important KPIs.
+•
+Suitable for assets like Genset, Chillers, pumps, busbars. etc.
+•
+Monitor and manage overall consumption of resources like energy, water and fuel.
+•
+Customized alerts and predictive maintenance module for reducing machine downtime.
+More information about tor mini 2G Edge gateways
+Configurability Web based utility to configure CANBUS Protection Load dump protection as per ISO 7637-2 with IP 65 Enclosure Interfaces Lite Gateway with serial communication interfaces : RS 485/CAN/BLE Communication Type tested and fully certified by ARAI
+Specification for tor mini 2G
+Power Supply
+The supply voltage for the Tor Mini4G-1, Tor Mini4G-3, Tor Mini4G-4, and Tor Mini4G-6 models is 11-30 V DC, while for the Tor Mini4G-2 and Tor Mini4G-5, it is 11-90 V DC. The maximum supply voltage is 30 V DC for the Tor Mini4G-1, Tor Mini4G-3, Tor Mini4G-4, and Tor Mini4G-6, and 90 V DC for the Tor Mini4G-2 and Tor Mini4G-5. Reverse polarity protection ranges from 0 to -30 V DC for the Tor Mini4G-1, Tor Mini4G-3, Tor Mini4G-4, and Tor Mini4G-6, and 0 to -90 V DC for the Tor Mini4G-2 and Tor Mini4G-5. The maximum operating current for all models is less than 100 mA, with a peak operating current of 2A during network activities. All models feature a backup battery of 1000 mAH, Li-Ion 3.7 V.
+Communication
+All Tor Mini4G models support 4G-LTE (FDD B1/B3/B5/B8 and TDD B34/B38/B39/B40/B41) and 2G-GSM (900 MHz/1800 MHz). GNSS capabilities include GPS, GLONASS, BeiDou, Galileo, and QZSS. The network protocols supported are HTTP and MQTT.
+Interfaces
+All Tor Mini4G models have 2 inputs and 2 analogue inputs. The Tor Mini4G-1, Tor Mini4G-2, Tor Mini4G-4, Tor Mini4G-5, and Tor Mini4G-6 have 1 digital output, while the Tor Mini4G-3 has none. The Tor Mini4G-1, Tor Mini4G-2, Tor Mini4G-4, Tor Mini4G-5, and Tor Mini4G-6 have 1 CAN interface, and the Tor Mini4G-3 has none. The Tor Mini4G-1, Tor Mini4G-2, Tor Mini4G-3, and Tor Mini4G-6 have 1 RS485 interface, while the Tor Mini4G-4 and Tor Mini4G-5 do not. The Tor Mini4G-1, Tor Mini4G-2, Tor Mini4G-3, Tor Mini4G-4, and Tor Mini4G-5 have 1 counter input (0-1000 Hz) and 1 hour meter, whereas the Tor Mini4G-6 does not have a counter input but has an hour meter. GNSS antennas are internal/external for the Tor Mini4G-1, Tor Mini4G-3, Tor Mini4G-4, and Tor Mini4G-6, and
+external for the Tor Mini4G-2 and Tor Mini4G-5. Cellular antennas are internal/external for the Tor Mini4G-1, Tor Mini4G-3, Tor Mini4G-4, and Tor Mini4G-6, and external for the Tor Mini4G-2 and Tor Mini4G-5. LED indications for power, network, GNSS, and communication (RS485) are present in all models. All models use a micro SIM and have a memory capacity of 64MB.
+Bluetooth
+All Tor Mini4G models support Bluetooth BLE 4.2 and can interface with peripherals such as fuel sensors and BLE beacons.
+Additional Features
+All Tor Mini4G models support firmware over-the-air (FOTA) updates and include an accelerometer sensor.
+Physical Specification
+The dimensions for all Tor Mini4G models are 120 mm in length, 115 mm in width, and 35 mm in height.
+Operating Environment
+The operating temperature range for all Tor Mini4G models (without battery) is -10 to +70 degrees Celsius, and the storage temperature range (without battery) is -20 to +95 degrees Celsius. The operating temperature range (with battery) is 0 to 40 degrees Celsius, with a storage temperature range of 0 to 60 degrees Celsius. All models can operate in environments with up to 85% relative humidity and withstand vibrations of 2g, from 10 to 150 Hertz. The enclosure ingress protection rating for all models is IP 65.
+Tor IoT Platform
+Tor IoT Platform Accelerate growth by addressing business challenges with the Tor IoT Platform.
+Features of Tor IoT Platform,
+Adopt a better Industrial IoT solution with Tor IoT Platform The Tor Industrial IoT Platform offers a rich set of capabilities that enable robust solutions ranging from asset management, energy management, utility management, and telematics for various industries. Built to be flexible and use case-centric for Industrial IoT, the Tor IoT Platform empowers enterprises to digitally transform their business with innovative solutions that are simple to implement, easy to use, scalable to meet future needs, and accelerate time to realized value.
+Tor IoT Platform supported use cases
+Fleet monitoring for EV auto financiers Make better risk profiling of claims by using analytics across vehicle performance, driving behaviour, theft and crash event data for warranty & insurance claims.
+•
+Additional pointers, Suitable for insurance providers and finance & leasing institutions
+•
+Data driven risk management with Tor Loco EV
+Benefits of tor IoT platform
+Data driven risk management with Tor Loco EV Make better risk profiling of claims by using analytics across vehicle performance, driving behaviour, theft and crash event data for warranty & insurance claims.
+Features of Tor IoT plaltform Drive behaviour monitoring Get detailed driver behaviour analytics on harsh braking, quick acceleration, sharp turns, etc.
+Live performance backed by analytics Get a detailed breakdown of EV’s performance and health & make a proactive diagnosis across several parameters.
+Location tracking Remotely track your vehicle location in real-time. Crash analytics Detailed parameter analysis in case of crash events. Remote immobilisation Get relay as well as CAN-based immobilisation. Third party integrations Get API integrations with third party applications via JSON, CSV over http/mqtt. Granular report generation Get a consolidated historical report featuring key parameters. Theft prevention Ease of vehicle recovery with real-time location tracking.
+Geofencing Define geofences and get alerted in case of entry/exit from defined geofence.
+Fleet monitoring for EV rentals companies Improve your fleet’s effective utilization by closely monitoring fleet operations across fleet status, driver behaviour, charging/ discharging trend and route scheduling and ad
+•
+Additional points for fleet monitoring for ev rentals companies, Improve your fleet’s effective utilization
+•
+Bird eye view of fleet operations across fleet status, driver behaviour, charging/ discharging trend, route scheduling, and adherence
+Benefits of fleet monitoring for ev rentals companies
+Get more done with your existing fleet Improve your fleet’s effective utilization by closely monitoring fleet operations across fleet status, driver behaviour, charging/ discharging trend and route scheduling and adherence.
+Features for fleet monitoring for EV rentals companies
+Live performance backed by analytics:
+Get a detailed breakdown of your EV performance and health & make a proactive diagnosis across several parameters e.g. state of charge, range, battery cell imbalance, etc.
+Location tracking:
+Remotely track your vehicle location in real-time
+Geofencing:
+Define geofences and get alerted in case of entry/exit from defined geofence.
+Third party integrations:
+Get API integrations with third party applications via JSON, CSV over http/mqtt.
+Front end application customization:
+A complete widget-based application that allows for application tweaking.
+Hierarchy management:
+Set up an application-based hierarchy with selective access to reports for Admin, HO, RO, Zonal, dealer, etc.
+Granular report generation:
+Get a consolidated historical report featuring key parameters.
+Remote immobilisation:
+Get relay as well as CAN-based immobilisation.
+Theft prevention:
+Ease of vehicle recovery with real-time location tracking.
+Tow detection:
+Get alerted in case of vehicle towing.
+Drive behaviour monitoring:
+Get detailed driver behaviour analytics on harsh braking, quick acceleration, sharp turns, etc.
+Battery Telematics for Battery OEMs
+Capture your Battery Management System’s real-world performance, extend battery lifespan through real-time monitoring, remote diagnostics & OTA upgrades.
+Agricultural Equipment Telematics Comply with various government subsidy norms and provide differentiated experience to customers with telematics solution.
+Energy and Water monitoring for Hospitals
+Fleet Management in Construction Industry Get a near real-time, 360-degree view of your fleet’s daily operations to help reduce costs, increase productivity, stay on top of vehicle maintenance, and make the most of every business day.
+Chiller Telematics Track real world performance of chiller and plug AMC leakages via proactive maintenance and better service delivery.
+Compressor Telematics Track real world performance, improve the overall life of the compressor through proactive maintenance and plug AMC leakages.
+Genset Telematics Track real world performance, improve the overall life of the Genset through proactive maintenance and plug AMC leakages.
+Electric Vehicle Telematics for EV OEMs Capture your product’s real-world performance, safely and securely upgrade your products in real-time with OTA/FOTA upgrades and gain differentiated service advantage by remote diagnostics.
+Foundry Energy Management Monitor the energy consumption of the induction furnaces and other processes in your foundry to unlock areas of cost reduction.
+Utility Management in Retail Industry Get complete insights into some of the most important KPIs of your retail outlets including checking the real time status of utility equipment, its resource consumption, maintenance and management.
+Accessories
+Multiplexer Description The Multiplexer unit is used to connect multiple RS 485 masters on a single channel. This is particularly useful when you want to connect a Tor edge gateway to a machine that is already connected to a BMS system.
+Capacitive Fuel Probe Description The capacitive fuel probe is used for accurate fuel consumption measurement. The probe has an error of +/-1%. There are standard libraries available as part of the Tor platform that can convert the level information provided by the sensor to consumption information. The fuel probe has an optional display.
+Hour Meter Description The high accuracy run hour meter card can be coupled with any edge gateway and provides an hour count with a 0.02% error. This is meant for use with mechanical engines and earth moving equipment.
+Controller Card Description The controller card is meant to provide control along with data acquisition. The card comes with 10 I/Os and a display. The card has an independent power supply with all protections and has a base mounting enclosure.
+I/O Expansion Module Description The I/O expansion module provides 10 additional i/os in the following configuration:
+•
+Analog Input – 4
+•
+Digital Input – 4
+•
+Output – 2
+Vibration Sensor Description
+•
+Ability to integrate sensors and multiple controllers on MODBUS RTU and CAN SAE-J1939 protocols
+•
+Inbuilt GNSS for location tracking with wireless connectivity under GSM, GPRS, 2G, 3G, 4G LTE, CAT1 and BLE options
+•
+Ideal input power range of 11 to 36V DC supply with <100mA working current and <20mA sleep current supported with 1000mAh backup battery
+•
+CE & RoHS certified and is compliant to ISO 7637 – 2 , IEC 6100, ESD EFT Burst, ISO 11452-4,-2, ISO 67637-2
