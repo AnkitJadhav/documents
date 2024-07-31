@@ -1,0 +1,32 @@
+structured_documents = [
+    {
+        "product": "Tor Saturn 321",
+        "description": "Tor Saturn provides real-time vehicle insights, enhanced security, and continuous tracking for fleet management.",
+        "features": [
+            "Uncover Real-Time Vehicle Insights",
+            "Go Beyond Location Tracking",
+            "Enhanced Security with Remote Immobilization",
+            "Never Lose Sight of the vehicle"
+        ],
+        "power_supply": "Supply Voltage: 9-30 V DC, Max Supply Voltage: 30 V DC, Reverse Polarity Protection: 0 to -30 V DC, Max Operating Current: <100 mA",
+        "interfaces": "Digital Inputs: 4, Digital Outputs: 8, Analog Inputs: 3, RS485 Interface: 1, Hour Meter: 1",
+        "additional_features": "Alternator Excitation: 120 mA",
+        "physical_specs": "Dimensions: 158 mm x 126 mm x 42 mm",
+        "operating_environment": "Operation Temperature: -10 to +70 degrees Celsius, Storage Temperature: -20 to +95 degrees Celsius, Operating Humidity: 85% RH, Vibration: 2g, 10-150 Hertz, Enclosure Ingress Protection IP: IP 65 (front), IP 20 (back)"
+    },
+    {
+        "product": "Tor Saturn 322",
+        "description": "Tor Saturn provides real-time vehicle insights, enhanced security, and continuous tracking for fleet management.",
+        "features": [
+            "Uncover Real-Time Vehicle Insights",
+            "Go Beyond Location Tracking",
+            "Enhanced Security with Remote Immobilization",
+            "Never Lose Sight of the vehicle"
+        ],
+        "power_supply": "Supply Voltage: 9-30 V DC, Max Supply Voltage: 30 V DC, Reverse Polarity Protection: 0 to -30 V DC, Max Operating Current: <100 mA",
+        "interfaces": "Digital Inputs: 4, Digital Outputs: 8, Analog Inputs: 3, RS485 Interface: 1, Hour Meter: 1",
+        "additional_features": "Alternator Excitation: 240 mA",
+        "physical_specs": "Dimensions: 158 mm x 126 mm x 42 mm",
+        "operating_environment": "Operation Temperature: -10 to +70 degrees Celsius, Storage Temperature: -20 to +95 degrees Celsius, Operating Humidity: 85% RH, Vibration: 2g, 10-150 Hertz, Enclosure Ingress Protection IP: IP 65 (front), IP 20 (back)"
+    }
+]
