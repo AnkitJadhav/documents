@@ -1,0 +1,52 @@
+structured_documents = [
+    {
+        "product": "Jupiter 611",
+        "power_supply": "Supply Voltage: 11-90 V DC, Max Supply Voltage: 90 V DC, Reverse Polarity Protection: 0 to -90 V DC, Max Operating Current: <100 mA, Peak Operating Current: 2A @network activities, Backup Battery: 1000 mAh, Li-Ion 3.7 V",
+        "communication": "Cellular: 4G- LTE-FDD B1/B3/B5/B7/B8/B20 LTE-TDD B38/B40/B41 WCDMA-B1/B5/B8 2G- GSM 900 MHz/1800 MHz, GNSS: GPS, GLONASS, BeiDou, Network Protocol: Http, Mqtt, TCP IP",
+        "interfaces": "Digital Input: 0, Digital Output: 0, Analog Input: 0, CAN: 1, RS485: 1, Counter Input (0-1000 Hz): NA, Hour Meter: NA, Ethernet: 1, GNSS Antenna: External, Cellular Antenna: External GSM, LED Indication: Power, Network, GNSS, SIM: Micro, Memory: 8MB",
+        "bluetooth": "Specification: NA, Supported Peripherals: NA",
+        "additional_features": "Configuration & FW Update: FOTA, Sensors: NA",
+        "physical_specs": "Dimension: 170 * 110 * 42 (LWH)",
+        "operating_environment": "Operating Temperature (without battery): -10 to +70 deg C, Storage Temperature (without battery): -20 to +95 deg C, Operating Temperature (with battery): 0 to 40 deg C, Storage Temperature (with battery): 0 to 60 deg C, Operating Humidity: 85% RH, Vibration: 2g, 10-150 Hertz, Enclosure Ingress Protection (IP): NA"
+    },
+    {
+        "product": "Jupiter 511",
+        "power_supply": "Supply Voltage: 11-90 V DC, Max Supply Voltage: 90 V DC, Reverse Polarity Protection: 0 to -90 V DC, Max Operating Current: <100 mA, Peak Operating Current: 2A @network activities, Backup Battery: 1000 mAh, Li-Ion 3.7 V",
+        "communication": "Cellular: 4G- LTE-FDD B1/B3/B5/B8 LTE-TDD B34/B38/B39/B40/B41 2G- GSM 900 MHz/1800 MHz, GNSS: GPS, GLONASS, BeiDou, Galileo, QZSS, Network Protocol: Http, Mqtt, TCP IP",
+        "interfaces": "Digital Input: 8 (0-40 V), Digital Output: 4, Analog Input: 8 (30V) - Voltage based, CAN: 1, RS485: 1 (RS485), Counter Input (0-1000 Hz): 2, Hour Meter: 1, Ethernet: NA, GNSS Antenna: External, Cellular Antenna: External GSM, LED Indication: Power, Network, GNSS, SIM: Micro, Memory: 128MB",
+        "bluetooth": "Specification: BLE 4.2, Supported Peripherals: Fuel sensors, BLE Beacons",
+        "additional_features": "Configuration & FW Update: FOTA, Sensors: Accelerometer",
+        "physical_specs": "Dimension: 170 * 110 * 42 (LWH)",
+        "operating_environment": "Operating Temperature (without battery): -10 to +70 deg C, Storage Temperature (without battery): -20 to +95 deg C, Operating Temperature (with battery): 0 to 40 deg C, Storage Temperature (with battery): 0 to 60 deg C, Operating Humidity: 85% RH, Vibration: 2g, 10-150 Hertz, Enclosure Ingress Protection (IP): IP 65"
+    },
+    {
+        "product": "Jupiter 811",
+        "power_supply": "Supply Voltage: 11-30 V DC, Max Supply Voltage: 30 V DC, Reverse Polarity Protection: 0 to -30 V DC, Max Operating Current: <100 mA, Peak Operating Current: 2A @network activities, Backup Battery: NA",
+        "communication": "Cellular: NA, GNSS: NA, Network Protocol: Ethernet",
+        "interfaces": "Digital Input: 0, Digital Output: 0, Analog Input: 0, CAN: 0, RS485: 1, Counter Input (0-1000 Hz): NA, Hour Meter: NA, Ethernet: 1, GNSS Antenna: NA, Cellular Antenna: NA, LED Indication: NA, SIM: Micro, Memory: 8MB",
+        "bluetooth": "Specification: NA, Supported Peripherals: NA",
+        "additional_features": "Configuration & FW Update: NA, Sensors: NA",
+        "physical_specs": "Dimension: 170 * 110 * 42 (LWH)",
+        "operating_environment": "Operating Temperature (without battery): -10 to +70 deg C, Storage Temperature (without battery): -20 to +95 deg C, Operating Temperature (with battery): NA, Storage Temperature (with battery): NA, Operating Humidity: 85% RH, Vibration: 2g, 10-150 Hertz, Enclosure Ingress Protection (IP): NA"
+    },
+    {
+        "product": "Jupiter 512",
+        "power_supply": "Supply Voltage: 11-90 V DC, Max Supply Voltage: 90 V DC, Reverse Polarity Protection: 0 to -90 V DC, Max Operating Current: <100 mA, Peak Operating Current: 2A @network activities, Backup Battery: 1000 mAh, Li-Ion 3.7 V",
+        "communication": "Cellular: 4G- LTE-FDD B1/B3/B5/B8 LTE-TDD B34/B38/B39/B40/B41 2G- GSM 900 MHz/1800 MHz, GNSS: GPS, GLONASS, BeiDou, Galileo, QZSS, Network Protocol: Http, Mqtt, TCP IP",
+        "interfaces": "Digital Input: 8 (0-40 V), Digital Output: 4, Analog Input: 8 (4-20mA), CAN: 1, RS485: 1 (RS485), Counter Input (0-1000 Hz): 2, Hour Meter: 1, Ethernet: NA, GNSS Antenna: External, Cellular Antenna: External GSM, LED Indication: Power, Network, GNSS, SIM: Micro, Memory: 128MB",
+        "bluetooth": "Specification: BLE 4.2, Supported Peripherals: Fuel sensors, BLE Beacons",
+        "additional_features": "Configuration & FW Update: FOTA, Sensors: Accelerometer",
+        "physical_specs": "Dimension: 170 * 110 * 42 (LWH)",
+        "operating_environment": "Operating Temperature (without battery): -10 to +70 deg C, Storage Temperature (without battery): -20 to +95 deg C, Operating Temperature (with battery): 0 to 40 deg C, Storage Temperature (with battery): 0 to 60 deg C, Operating Humidity: 85% RH, Vibration: 2g, 10-150 Hertz, Enclosure Ingress Protection (IP): IP 65"
+    },
+    {
+        "product": "Jupiter 513",
+        "power_supply": "Supply Voltage: 11-90 V DC, Max Supply Voltage: 90 V DC, Reverse Polarity Protection: 0 to -90 V DC, Max Operating Current: <100 mA, Peak Operating Current: 2A @network activities, Backup Battery: 1000 mAh, Li-Ion 3.7 V",
+        "communication": "Cellular: 4G- LTE-FDD B1/B3/B5/B8 LTE-TDD B34/B38/B39/B40/B41 2G- GSM 900 MHz/1800 MHz, GNSS: GPS, GLONASS, BeiDou, Galileo, QZSS, Network Protocol: Http, Mqtt, TCP IP",
+        "interfaces": "Digital Input: 8 (0-40 V), Digital Output: 4, Analog Input: 8 (6 voltage based and 2 current based), CAN: 1, RS485: 1, Counter Input (0-1000 Hz): 2, Hour Meter: 1, Ethernet: NA, GNSS Antenna: External, Cellular Antenna: External GSM, LED Indication: Power, Network, GNSS, SIM: Micro, Memory: 128MB",
+        "bluetooth": "Specification: BLE 4.2, Supported Peripherals: Fuel sensors, BLE Beacons",
+        "additional_features": "Configuration & FW Update: FOTA, Sensors: Accelerometer",
+        "physical_specs": "Dimension: 170 * 110 * 42 (LWH)",
+        "operating_environment": "Operating Temperature (without battery): -10 to +70 deg C, Storage Temperature (without battery): -20 to +95 deg C, Operating Temperature (with battery): 0 to 40 deg C, Storage Temperature (with battery): 0 to 60 deg C, Operating Humidity: 85% RH, Vibration: 2g, 10-150 Hertz, Enclosure Ingress Protection (IP): IP 65"
+    }
+]
